@@ -1,8 +1,5 @@
-# Project Title
+# Generic Genetic Algorithm Implementation
 
-One Paragraph of project description goes here
-
-## Getting Started
 
 We offer a generic implementation of a Genetic Algorithm as well as two use cases, namely the Knapsack Problem and the Traveling Salesperson Problem. 
 
